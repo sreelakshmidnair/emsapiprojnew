@@ -4,7 +4,7 @@ from django.db.models.signals import post_save
 from django.conf import settings
 from rest_framework.authtoken.models import Token
 
-#create your wonderful models here.
+#create your wonderful models here now.
 # Create your models here.
 #create a receiver for the signal 'post_save' for the user model 
 #once its created create a token for that model
